@@ -1,7 +1,0 @@
-../Core/Src/main.c:66:6:USBRxHandler	4
-../Core/Src/main.c:96:6:Buffer_operation	3
-../Core/Src/main.c:107:9:Buffer_trim_size	3
-../Core/Src/main.c:124:5:main	1
-../Core/Src/main.c:169:6:SystemClock_Config	3
-../Core/Src/main.c:215:13:MX_GPIO_Init	1
-../Core/Src/main.c:236:6:Error_Handler	1
